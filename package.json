@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/tenajesus/GraphQL_ApolloServer#readme",
   "dependencies": {
-    "apollo-server": "^2.12.0",
+    "apollo-server": "^2.25.3",
     "graphql": "^15.0.0",
     "graphql-tools": "^5.0.0"
   }
